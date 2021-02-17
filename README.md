@@ -1,2 +1,2 @@
 # training
-project untuk latihan
+project untuk latihan golang
